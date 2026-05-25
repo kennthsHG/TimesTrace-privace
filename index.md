@@ -164,26 +164,4 @@ If you have any questions or suggestions about this Privacy Policy, please conta
 
 ---
 
-## 12. Open Source Licenses
-
-This App uses the following open-source packages:
-
-- Flutter Framework (BSD License)
-- Provider (MIT License)
-- Hive (Apache License)
-- SharedPreferences (BSD License)
-- fl_chart (MIT License)
-- Syncfusion Flutter Charts (Community License)
-- flutter_local_notifications (MIT License)
-- in_app_purchase (BSD License)
-- image_picker (BSD License)
-- uuid (MIT License)
-- intl (BSD License)
-- wakelock_plus (MIT License)
-- path_provider (BSD License)
-- url_launcher (BSD License)
-- package_info_plus (BSD License)
-
----
-
 © 2026 TimesTrace. All rights reserved.
